@@ -1,18 +1,16 @@
 # PiMotion
 ===
-
 Forked from Leo (DoctorWhoof) to make minor changes. Tweaked code a bit to suite my needs, and did some refactoring. Enjoy
 
 ###Changes:
 ===
-
  - Script now takes command line arguments, that overrides default values. Check the table below for list of arguments, descriptions and default values
  - It is possible now not to record (start script with `--recording false` argument)
  
  
 ### Argument table
 ===
-#### Example script run: `python init.py --[argument] [value]` (without brackets)
+Example script run: `python init.py --[argument] [value]` (without brackets)
 
 | Argument      | Description | Default Value  |
 | ------------- |:-------------:| -----:|
